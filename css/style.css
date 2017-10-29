@@ -46,10 +46,23 @@ h4 {
 
 
 }
+ h5{
+   font-size: 18px;
+   font-family: "Segoe UI", Arial, sans-serif;
+   font-weight: 400;
+   margin: 10px 0;
+ }
 
 p {
   text-align: center;
   font-size: 17px;
   font-weight: bold;
 
+}
+button{
+border: none;
+background: #f1f1f1;
+color: black;
+padding: 10px;
+font-size: 18px;
 }
