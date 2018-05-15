@@ -1,3 +1,5 @@
+@import url(https://fonts.googleapis.com/css?family=Righteous);
+
 body,
 html {
     height: 100%;
@@ -6,30 +8,25 @@ html {
 .imagen-fondo {
     background-position: center;
     background-size: cover;
-    background-image: url("../img/background_5.jpg");
+    background-image: url("../img/background_4.jpg");
     min-height: 100%;
 }
 
 h1 {
+  display: inline-block;
+  color: white;
+  font-family: 'Righteous', serif;
+  font-size: 12em;
+  text-shadow: .03em .03em 0 rgb(252, 206, 0);
+  }
 
-    background: rgba(0, 0, 0, 0.7);
-    font-size: 72px;
-    color: white;
-    border: solid rgba(0, 0, 0, 0.7);
-    display: inline-block;
-    padding: 5px;
-    font-weight: 400;
-
-}
 
 h2 {
-  background: rgba(0, 0, 0, 0.7);
-  font-size: 35px;
-  color: white;
-  font-weight: 400;
-  border: solid rgba(0, 0, 0, 0.7);
   display: inline-block;
-  padding: 5px;
+  color: white;
+  font-family: 'changa', sans-serif;
+  font-size: 6em;
+  text-shadow: .03em .03em 0 rgb(252, 206, 0);
 }
 
 h3 {
