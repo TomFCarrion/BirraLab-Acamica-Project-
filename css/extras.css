@@ -382,11 +382,11 @@ a {
 }
 
 .color-gris{
-    color: #757575!important
+    color: rgb(252, 206, 0)!important
 }
 
-.escala-grises-50 {
-    filter: grayscale(50%)
+.escala-grises-20 {
+    filter: grayscale(20%)
 }
 
 .color-arena{
@@ -411,7 +411,7 @@ ul li {
 ul li a {
     text-decoration: none;
     padding: .5em 2em;
-    color: #fff;
+    color: rgb(252, 206, 0);
     background-color: #036;
 }
 ul li a:hover {
